@@ -4,9 +4,28 @@
   
     
     <entry>
+      <title>CR800数据采集器</title>
+      <link href="/2021/10/01/CR800%E6%95%B0%E6%8D%AE%E9%87%87%E9%9B%86%E5%99%A8/"/>
+      <url>/2021/10/01/CR800%E6%95%B0%E6%8D%AE%E9%87%87%E9%9B%86%E5%99%A8/</url>
+      
+        <content type="html"><![CDATA[<h1 id="CR800数据采集器"><a href="#CR800数据采集器" class="headerlink" title="CR800数据采集器"></a>CR800数据采集器</h1><p><img src="https://zt-1307572978.cos.ap-beijing.myqcloud.com/CR800.png" alt="CR800数采"></p><p> CR800是一款低成本、体积小巧的研究级数据采集器，的含差分通道的数据采集器。它含有3个差分通道，能实现差分信号的传感器连接。该系列数据采集器有CR800和CR850两种型号。其中，CR800可外接CR1000KD手持式显示器，而CR850的面板上已集成显示器及操作键盘，方便手动传输、读数、存储数据等操作。CR800系列可以通过Internet、无线电台、CDMA/GPRS、卫星的方式进行数据远程传输。此外，它还可以直接与PDA相连接进行操作。 用户亦可选配SC115 2G数据存储U盘，它同时配有CS I/O和USB两种接口，可通过CS I/O存储数据采集器所采集到的观测数据，USB接口可以直接连接计算机。既可以作为存储介质在数据采集器和电脑之间转移数据，也可以实现数据采集器与电脑的直连。</p><p>CR850与CR800性能一致，但集成了液晶显示屏和操作键盘，可用于现场设置和状态检查。</p><h2 id="特点"><a href="#特点" class="headerlink" title="特点"></a>特点</h2><p>100Hz高速扫描</p><p>4M数据和程序存储空间</p><p>表格式数据格式</p><p>支持LoggerNet软件</p><p>支持PakBus、Modbus和DNP3协议、SDI-12协议和SDM设备</p><p>采用气体放电管（Gas Discharge Tube，GDT）保护数据输入</p><p>可外接多种扩展配件</p><h2 id="主要技术参数"><a href="#主要技术参数" class="headerlink" title="主要技术参数"></a>主要技术参数</h2><p>扫描频率：100 Hz</p><p>通讯端口：1个CS I/O ，1个RS-232</p><p>A/D转换：13bit</p><p>耗电量：约0.6mA（睡眠模式），1<del>16mA（w/o RS-232通讯时），17</del>28 mA (w/RS-232 通讯时)</p><p>模拟量输入：6个单端通道（即3个差分通道）</p><p>模拟电压范围：±5000mV</p><p>模拟电压精度：±（读数*0.06%+偏移量），0℃~40℃</p><p>测量分辨率：0.33 µV</p><p>脉冲通道：2个</p><p>控制口：4个</p><p>协议支持：PakBus，Modbus，DNP3，FTP，HTTP，XML，POP3，SMTP，Telnet，NTCIP，NTP，SDI-12，SDM</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 数据采集器 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>CR3000数据采集器</title>
-      <link href="/2021/10/02/CR3000%E6%95%B0%E6%8D%AE%E9%87%87%E9%9B%86%E5%99%A8%20/"/>
-      <url>/2021/10/02/CR3000%E6%95%B0%E6%8D%AE%E9%87%87%E9%9B%86%E5%99%A8%20/</url>
+      <link href="/2021/10/01/CR3000%E6%95%B0%E6%8D%AE%E9%87%87%E9%9B%86%E5%99%A8%20/"/>
+      <url>/2021/10/01/CR3000%E6%95%B0%E6%8D%AE%E9%87%87%E9%9B%86%E5%99%A8%20/</url>
       
         <content type="html"><![CDATA[<h1 id="CR3000数据采集器"><a href="#CR3000数据采集器" class="headerlink" title="CR3000数据采集器"></a>CR3000数据采集器</h1><p><img src="https://zt-1307572978.cos.ap-beijing.myqcloud.com/CR3000.png" alt="CR3000数采"></p><p>CR3000是一款结构紧凑、性能先进、运行可靠的数据采集器。它由测量与控制设备、通讯端口、键盘、液晶显示器、供电模块以及带把手的轻质量外壳组成。</p><p>与CR1000相比，CR3000数据采集器配有数量更多的单端/差分通道、脉冲通道、电压激发通道，同时增加了电流激发通道。CR3000具有CS I/O和RS-232接口，支持SDM外围设备，支持PakBus、Modbus RTU协议，能够利用Internet、无线电、CDMA/GPRS和卫星等多种通讯方式进行数据传输，也可以直接与计算机或PDA连接（需相关软件支持）。该数据采集器还可选配带基座的一次性碱性电池或可充电锂电池为设备供电。CR3000具备符合欧盟CE、EMC标准的过压保护功能，能够防止瞬时过大电流对设备产生损害。</p><p>CR3000是一款性能强劲的数据采集器，它可以在涡动协方差系统、专业级气象研究、农业研究、风力观测、交通工具测试、航空航天研究等高端领域得到广泛应用。</p><h2 id="特点"><a href="#特点" class="headerlink" title="特点"></a>特点</h2><p>整装设计，结构紧凑</p><p>高达100Hz的扫描频率</p><p>16位A/D（模拟/数字）转换</p><p>4M内存，可扩展至16G</p><p>内嵌液晶显示屏和键盘，方便易用</p><p>表格式数据格式</p><p>支持PakBus、Modbus、DNP3、TCP/IP、FTP和SMTP协议、SDI-12协议和SDM设备</p><p>支持LoggerNet，PC400、ShortCut等软件 </p><h2 id="主要技术参数"><a href="#主要技术参数" class="headerlink" title="主要技术参数"></a>主要技术参数</h2><p>耗电量：2mA（睡眠模式），3mA（1Hz 采样频率时），10mA（100Hz采样频率时）</p><p>A/D转换：16bit</p><p>扫描频率：100Hz</p><p>模拟通道：28个单端（14个差分）</p><p>模拟电压范围：±5Vdc</p><p>模拟电压精度：±（读数*0.04%+偏移量），0℃~40℃</p><p>测量分辨率：0.33 µV</p><p>开关激发通道：4个电压，3个电流</p><p>脉冲通道：4个</p><p>控制口：3个（用于SDM），8个I/O</p><p>互联网协议：FTP，HTTP，XML POP3，SMTP，Telnet，NTCIP，NTP</p><p>通信协议：PakBus，Modbus，DNP3，SDI-12，SDM</p><p>工作温度：-25°至+ 50°C（标准），-40°至+ 85°C（扩展）</p>]]></content>
       
@@ -23,17 +42,36 @@
     
     
     <entry>
-      <title>CR800数据采集器</title>
-      <link href="/2021/10/01/CR800%E6%95%B0%E6%8D%AE%E9%87%87%E9%9B%86%E5%99%A8/"/>
-      <url>/2021/10/01/CR800%E6%95%B0%E6%8D%AE%E9%87%87%E9%9B%86%E5%99%A8/</url>
+      <title>Apogee SI-411精密红外温度传感器</title>
+      <link href="/2021/10/01/SI-411-%E7%BA%A2%E5%A4%96%E6%B8%A9%E5%BA%A6/"/>
+      <url>/2021/10/01/SI-411-%E7%BA%A2%E5%A4%96%E6%B8%A9%E5%BA%A6/</url>
       
-        <content type="html"><![CDATA[<h1 id="CR800数据采集器"><a href="#CR800数据采集器" class="headerlink" title="CR800数据采集器"></a>CR800数据采集器</h1><p><img src="https://zt-1307572978.cos.ap-beijing.myqcloud.com/CR800.png" alt="CR800数采"></p><p> CR800是一款低成本、体积小巧的研究级数据采集器，的含差分通道的数据采集器。它含有3个差分通道，能实现差分信号的传感器连接。该系列数据采集器有CR800和CR850两种型号。其中，CR800可外接CR1000KD手持式显示器，而CR850的面板上已集成显示器及操作键盘，方便手动传输、读数、存储数据等操作。CR800系列可以通过Internet、无线电台、CDMA/GPRS、卫星的方式进行数据远程传输。此外，它还可以直接与PDA相连接进行操作。 用户亦可选配SC115 2G数据存储U盘，它同时配有CS I/O和USB两种接口，可通过CS I/O存储数据采集器所采集到的观测数据，USB接口可以直接连接计算机。既可以作为存储介质在数据采集器和电脑之间转移数据，也可以实现数据采集器与电脑的直连。</p><p>CR850与CR800性能一致，但集成了液晶显示屏和操作键盘，可用于现场设置和状态检查。</p><h2 id="特点"><a href="#特点" class="headerlink" title="特点"></a>特点</h2><p>100Hz高速扫描</p><p>4M数据和程序存储空间</p><p>表格式数据格式</p><p>支持LoggerNet软件</p><p>支持PakBus、Modbus和DNP3协议、SDI-12协议和SDM设备</p><p>采用气体放电管（Gas Discharge Tube，GDT）保护数据输入</p><p>可外接多种扩展配件</p><h2 id="主要技术参数"><a href="#主要技术参数" class="headerlink" title="主要技术参数"></a>主要技术参数</h2><p>扫描频率：100 Hz</p><p>通讯端口：1个CS I/O ，1个RS-232</p><p>A/D转换：13bit</p><p>耗电量：约0.6mA（睡眠模式），1<del>16mA（w/o RS-232通讯时），17</del>28 mA (w/RS-232 通讯时)</p><p>模拟量输入：6个单端通道（即3个差分通道）</p><p>模拟电压范围：±5000mV</p><p>模拟电压精度：±（读数*0.06%+偏移量），0℃~40℃</p><p>测量分辨率：0.33 µV</p><p>脉冲通道：2个</p><p>控制口：4个</p><p>协议支持：PakBus，Modbus，DNP3，FTP，HTTP，XML，POP3，SMTP，Telnet，NTCIP，NTP，SDI-12，SDM</p>]]></content>
+        <content type="html"><![CDATA[<h1 id="Apogee-SI-411精密红外温度传感器"><a href="#Apogee-SI-411精密红外温度传感器" class="headerlink" title="Apogee SI-411精密红外温度传感器"></a>Apogee SI-411精密红外温度传感器</h1><p><img src="https://zt-1307572978.cos.ap-beijing.myqcloud.com/SI411.png" alt="SI-411"></p><p> SI-411具有SDI-12数字输出。该传感器具有22°半角的视场和0.1秒的响应时间。典型应用包括用于植物水状态估计的植物冠层温度测量，测定结冰条件的路面温度测量，以及能量平衡研究中的陆地表面（土壤，植被，水，雪）温度测量。</p><h2 id="主要参数"><a href="#主要参数" class="headerlink" title="主要参数"></a>主要参数</h2><p>输入电压                              4.5至24 V DC<br>电流消耗                              0.6 mA（静态），1.3 mA（工作）<br>校准不确定度（-20至65°C）     0.2°C，当目标和检测器温度在20°C内<br>校准不确定度（-40至80°C）     0.5℃，当目标和检测器温度相差大于20℃时<br>测量重复性                               小于0.05℃<br>稳定性（长期漂移）                  锗过滤器保持清洁条件下每年的斜率变化小于2％<br>响应时间                                   0.6 s，检测器信号在步进变化后达到95％的时间;SDI-12电路的最快数据传输速率为1 s<br>视野                                         22°半角<br>光谱范围                                  8至14μm的大气窗<br>操作环境                                  -55至80℃，0至100％相对湿度（非冷凝<br>尺寸                                         23mm直径，60mm长度<br>质量                                         190 g（带5 m导线）<br>电缆                                         5 m的四芯导线，屏蔽双绞线。附加电缆可提供5 m的倍数。山都平橡胶<br>                                                护套（高耐水性，高UV稳定性，在寒冷条件下的柔韧性</p>]]></content>
       
       
       
         <tags>
             
-            <tag> 数据采集器 </tag>
+            <tag> 温湿度 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Vaisala HMP155A温度相对湿度传感器</title>
+      <link href="/2021/10/01/HMP155A-%E6%B8%A9%E6%B9%BF%E5%BA%A6/"/>
+      <url>/2021/10/01/HMP155A-%E6%B8%A9%E6%B9%BF%E5%BA%A6/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Vaisala-HMP155A温度相对湿度传感器"><a href="#Vaisala-HMP155A温度相对湿度传感器" class="headerlink" title="Vaisala HMP155A温度相对湿度传感器"></a>Vaisala HMP155A温度相对湿度传感器</h1><p><img src="https://zt-1307572978.cos.ap-beijing.myqcloud.com/HMP155A.png" alt="HMP155A"></p><p> HMP155A是一款性能优异的温度相对湿度传感器。它采用Vaisala最新研制的具有专利技术的HUMICAP®180R加热型相对湿度探头，并结合当前先进的制造工艺，具有卓越的稳定性和强大的环境适应能力。凭借其灵敏度更高、反应更加迅速的新型温度探头，HMP155A能够以更快的速度对环境温度的变化做出反应，让您随时掌握温度变化的第一手数据资料。HMP155A支持0~1V电压输出，对CSI的全系列数据采集器拥有良好的兼容性；其采用节能设计，仅在测量时由数据采集器供电，非工作时可停止供电。</p><p>HMP155A温度湿度可广泛应用于气象观测与预报、道路环境监测、民航、工业检测等领域。为了使该传感器能够消除环境影响进行更加精确的测量，并使其拥有更加长久的使用寿命，我们建议您为其配备41005-5防辐射罩，或者将其安装在百叶箱内。</p><h2 id="主要参数"><a href="#主要参数" class="headerlink" title="主要参数"></a>主要参数</h2><p>工作环境：-80℃<del>60℃，0</del>100%RH</p><p>工作电压：7~28VDC</p><p>输出信号：电压（0<del>1V，0</del>5V，0~10V），RS-485，Pt100（4线连接）</p><p>外壳：聚碳酸酯</p><p>外壳防护等级：IP66</p><h2 id="温度"><a href="#温度" class="headerlink" title="温度"></a>温度</h2><p>传感器类型：Pt100 RTD 1/3 class B IEC 751</p><p>量程：-80℃~60℃</p><p>精度（模拟电压输出）：±(0.226-0.0028×温度范围)℃ （-80℃<del>20℃）；±(0.055+0.0057×温度范围)℃ （20℃</del>60℃）（采用RS-485信号输出时，精度优于模拟电压）</p><h2 id="湿度"><a href="#湿度" class="headerlink" title="湿度"></a>湿度</h2><p>传感器类型：HUMICAP®180R</p><p>量程：0.8~100% RH</p><p>精度：±（1.2%+0.012×读数）%RH（-40~ -20℃，40℃<del>60℃），±（1.0+0.008×读数）%RH（-20℃</del>40℃）</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 温湿度 </tag>
             
         </tags>
       
