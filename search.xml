@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>CR800数据采集器</title>
+      <link href="/2021/10/01/CR800%E6%95%B0%E6%8D%AE%E9%87%87%E9%9B%86%E5%99%A8/"/>
+      <url>/2021/10/01/CR800%E6%95%B0%E6%8D%AE%E9%87%87%E9%9B%86%E5%99%A8/</url>
+      
+        <content type="html"><![CDATA[<h1 id="CR800数据采集器"><a href="#CR800数据采集器" class="headerlink" title="CR800数据采集器"></a>CR800数据采集器</h1><p><img src="https://zt-1307572978.cos.ap-beijing.myqcloud.com/CR800.png" alt="CR800数采"></p><p> CR800是一款低成本、体积小巧的研究级数据采集器，的含差分通道的数据采集器。它含有3个差分通道，能实现差分信号的传感器连接。该系列数据采集器有CR800和CR850两种型号。其中，CR800可外接CR1000KD手持式显示器，而CR850的面板上已集成显示器及操作键盘，方便手动传输、读数、存储数据等操作。CR800系列可以通过Internet、无线电台、CDMA/GPRS、卫星的方式进行数据远程传输。此外，它还可以直接与PDA相连接进行操作。 用户亦可选配SC115 2G数据存储U盘，它同时配有CS I/O和USB两种接口，可通过CS I/O存储数据采集器所采集到的观测数据，USB接口可以直接连接计算机。既可以作为存储介质在数据采集器和电脑之间转移数据，也可以实现数据采集器与电脑的直连。</p><p>CR850与CR800性能一致，但集成了液晶显示屏和操作键盘，可用于现场设置和状态检查。</p><h2 id="特点"><a href="#特点" class="headerlink" title="特点"></a>特点</h2><p>100Hz高速扫描</p><p>4M数据和程序存储空间</p><p>表格式数据格式</p><p>支持LoggerNet软件</p><p>支持PakBus、Modbus和DNP3协议、SDI-12协议和SDM设备</p><p>采用气体放电管（Gas Discharge Tube，GDT）保护数据输入</p><p>可外接多种扩展配件</p><h2 id="主要技术参数"><a href="#主要技术参数" class="headerlink" title="主要技术参数"></a>主要技术参数</h2><p>扫描频率：100 Hz</p><p>通讯端口：1个CS I/O ，1个RS-232</p><p>A/D转换：13bit</p><p>耗电量：约0.6mA（睡眠模式），1<del>16mA（w/o RS-232通讯时），17</del>28 mA (w/RS-232 通讯时)</p><p>模拟量输入：6个单端通道（即3个差分通道）</p><p>模拟电压范围：±5000mV</p><p>模拟电压精度：±（读数*0.06%+偏移量），0℃~40℃</p><p>测量分辨率：0.33 µV</p><p>脉冲通道：2个</p><p>控制口：4个</p><p>协议支持：PakBus，Modbus，DNP3，FTP，HTTP，XML，POP3，SMTP，Telnet，NTCIP，NTP，SDI-12，SDM</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 数据采集器 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>CR6数据采集器</title>
       <link href="/2021/09/30/CR6%E6%95%B0%E6%8D%AE%E9%87%87%E9%9B%86%E5%99%A8/"/>
       <url>/2021/09/30/CR6%E6%95%B0%E6%8D%AE%E9%87%87%E9%9B%86%E5%99%A8/</url>
@@ -46,7 +65,7 @@
       <link href="/2021/09/24/CR300%E6%95%B0%E6%8D%AE%E9%87%87%E9%9B%86%E5%99%A8/"/>
       <url>/2021/09/24/CR300%E6%95%B0%E6%8D%AE%E9%87%87%E9%9B%86%E5%99%A8/</url>
       
-        <content type="html"><![CDATA[<h1 id="CR1000数据采集器"><a href="#CR1000数据采集器" class="headerlink" title="CR1000数据采集器"></a>CR1000数据采集器</h1><p><img src="https://zt-1307572978.cos.ap-beijing.myqcloud.com/CR300%E6%95%B0%E9%87%87.png" alt="CR300数采"></p><p>  CR300是一款多功能、紧凑型、高性价比的入门级数据采集器。它拥有丰富的指令集，兼容大多数水文、气象、环境以及工业方面的传感器，可以通过多种方式采集数据，并根据更适合用户的通讯协议进行传输。CR300也可以进行本地或远程的自动化操作，控制和M2M通信，适用于需要长期监测，远程监控的小型系统。</p><h2 id="特点"><a href="#特点" class="headerlink" title="特点"></a>特点</h2><p>内置充电控制器（使用太阳能板），可以就地给电池充电</p><p>功耗低，节能</p><p>通过更高分辨率的测量（24位Adc），甚至可以区分数据值的微小变化</p><p>测量各种模拟电压或电流传感器</p><p>测量各种脉冲输出或串行/数字传感器</p><p>通过连接各种通讯设备进行远程监控</p><p>使用Pakbus,Modbus,DNP3以及其他标准协议通讯</p><p>发送加密/安全邮件信息和警报</p><p>Campbell品质的浪涌和静电防护</p><p>使用USB端口，简化PC建立连接设置</p><h2 id="主要技术参数"><a href="#主要技术参数" class="headerlink" title="主要技术参数"></a>主要技术参数</h2><p>工作温度范围  (℃ )：-40℃ ~70℃（标准）</p><p>最大扫描速率：10 Hz</p><p>模拟输入：6  个单端或 3 对差分</p><p>脉冲通道数：8个（P_SW,P_LL,C1,C2和SE1-SE4）</p><p>开关激发通道：2 个（VX1、VX2）</p><p>通讯 / 数据存储端口：1  个 RS-232,1 个  USB</p><p>12V控制端口：1个</p><p>数字端口I/O：7 个（C1，C2，P_SW和SE1至SE4）可配置为数字输入和输出</p><p>输入电压量程（Vdc）：-100~ +2500 mV</p><p>模拟电压精度：±（0.1%测量值+偏移量）@ -40～70℃，±（0.04%读数+偏移量）@ 0～40℃</p><p>模拟数字转换位数（A/D）: 24位</p><p>采集器供电范围：16-32V</p><p>实时时钟精度：±1min/月</p><p>可支持的网络协议：Ethernet, PPP, RNDIS, ICMP/Ping, Auto-IP(APIPA), IPv4, IPv6, UDP, TCP, TLS (v1.2), DNS, DHCP, SLAAC, NTP, Telnet, HTTP(S), FTP(S), SMTP/TLS, POP3/TLS</p><p>可支持的通信协议：PakBus, Modbus, DNP3, SDI-12, TCP, UDP, and others</p><p>内    存：30MB（数据存储）；80MB(CPU驱动/程序存储)</p><p>尺寸：13.97 x 7.62 x 4.56 cm</p><p>重量：242g～249.5g(取决于所选择的通讯方式)</p>]]></content>
+        <content type="html"><![CDATA[<h1 id="CR300数据采集器"><a href="#CR300数据采集器" class="headerlink" title="CR300数据采集器"></a>CR300数据采集器</h1><p><img src="https://zt-1307572978.cos.ap-beijing.myqcloud.com/CR300%E6%95%B0%E9%87%87.png" alt="CR300数采"></p><p>  CR300是一款多功能、紧凑型、高性价比的入门级数据采集器。它拥有丰富的指令集，兼容大多数水文、气象、环境以及工业方面的传感器，可以通过多种方式采集数据，并根据更适合用户的通讯协议进行传输。CR300也可以进行本地或远程的自动化操作，控制和M2M通信，适用于需要长期监测，远程监控的小型系统。</p><h2 id="特点"><a href="#特点" class="headerlink" title="特点"></a>特点</h2><p>内置充电控制器（使用太阳能板），可以就地给电池充电</p><p>功耗低，节能</p><p>通过更高分辨率的测量（24位Adc），甚至可以区分数据值的微小变化</p><p>测量各种模拟电压或电流传感器</p><p>测量各种脉冲输出或串行/数字传感器</p><p>通过连接各种通讯设备进行远程监控</p><p>使用Pakbus,Modbus,DNP3以及其他标准协议通讯</p><p>发送加密/安全邮件信息和警报</p><p>Campbell品质的浪涌和静电防护</p><p>使用USB端口，简化PC建立连接设置</p><h2 id="主要技术参数"><a href="#主要技术参数" class="headerlink" title="主要技术参数"></a>主要技术参数</h2><p>工作温度范围  (℃ )：-40℃ ~70℃（标准）</p><p>最大扫描速率：10 Hz</p><p>模拟输入：6  个单端或 3 对差分</p><p>脉冲通道数：8个（P_SW,P_LL,C1,C2和SE1-SE4）</p><p>开关激发通道：2 个（VX1、VX2）</p><p>通讯 / 数据存储端口：1  个 RS-232,1 个  USB</p><p>12V控制端口：1个</p><p>数字端口I/O：7 个（C1，C2，P_SW和SE1至SE4）可配置为数字输入和输出</p><p>输入电压量程（Vdc）：-100~ +2500 mV</p><p>模拟电压精度：±（0.1%测量值+偏移量）@ -40～70℃，±（0.04%读数+偏移量）@ 0～40℃</p><p>模拟数字转换位数（A/D）: 24位</p><p>采集器供电范围：16-32V</p><p>实时时钟精度：±1min/月</p><p>可支持的网络协议：Ethernet, PPP, RNDIS, ICMP/Ping, Auto-IP(APIPA), IPv4, IPv6, UDP, TCP, TLS (v1.2), DNS, DHCP, SLAAC, NTP, Telnet, HTTP(S), FTP(S), SMTP/TLS, POP3/TLS</p><p>可支持的通信协议：PakBus, Modbus, DNP3, SDI-12, TCP, UDP, and others</p><p>内    存：30MB（数据存储）；80MB(CPU驱动/程序存储)</p><p>尺寸：13.97 x 7.62 x 4.56 cm</p><p>重量：242g～249.5g(取决于所选择的通讯方式)</p>]]></content>
       
       
       
