@@ -115,28 +115,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Vaisala HMP155A温度相对湿度传感器</title>
-    <url>/2021/10/01/HMP155A-%E6%B8%A9%E6%B9%BF%E5%BA%A6/</url>
-    <content><![CDATA[<h1 id="Vaisala-HMP155A温度相对湿度传感器"><a href="#Vaisala-HMP155A温度相对湿度传感器" class="headerlink" title="Vaisala HMP155A温度相对湿度传感器"></a>Vaisala HMP155A温度相对湿度传感器</h1><p><img src="https://zt-1307572978.cos.ap-beijing.myqcloud.com/HMP155A.png" alt="HMP155A"></p>
-<p> HMP155A是一款性能优异的温度相对湿度传感器。它采用Vaisala最新研制的具有专利技术的HUMICAP®180R加热型相对湿度探头，并结合当前先进的制造工艺，具有卓越的稳定性和强大的环境适应能力。凭借其灵敏度更高、反应更加迅速的新型温度探头，HMP155A能够以更快的速度对环境温度的变化做出反应，让您随时掌握温度变化的第一手数据资料。HMP155A支持0~1V电压输出，对CSI的全系列数据采集器拥有良好的兼容性；其采用节能设计，仅在测量时由数据采集器供电，非工作时可停止供电。</p>
-<p>HMP155A温度湿度可广泛应用于气象观测与预报、道路环境监测、民航、工业检测等领域。为了使该传感器能够消除环境影响进行更加精确的测量，并使其拥有更加长久的使用寿命，我们建议您为其配备41005-5防辐射罩，或者将其安装在百叶箱内。</p>
-<h2 id="主要参数"><a href="#主要参数" class="headerlink" title="主要参数"></a>主要参数</h2><p>工作环境：-80℃<del>60℃，0</del>100%RH</p>
-<p>工作电压：7~28VDC</p>
-<p>输出信号：电压（0<del>1V，0</del>5V，0~10V），RS-485，Pt100（4线连接）</p>
-<p>外壳：聚碳酸酯</p>
-<p>外壳防护等级：IP66</p>
-<h2 id="温度"><a href="#温度" class="headerlink" title="温度"></a>温度</h2><p>传感器类型：Pt100 RTD 1/3 class B IEC 751</p>
-<p>量程：-80℃~60℃</p>
-<p>精度（模拟电压输出）：±(0.226-0.0028×温度范围)℃ （-80℃<del>20℃）；±(0.055+0.0057×温度范围)℃ （20℃</del>60℃）（采用RS-485信号输出时，精度优于模拟电压）</p>
-<h2 id="湿度"><a href="#湿度" class="headerlink" title="湿度"></a>湿度</h2><p>传感器类型：HUMICAP®180R</p>
-<p>量程：0.8~100% RH</p>
-<p>精度：±（1.2%+0.012×读数）%RH（-40~ -20℃，40℃<del>60℃），±（1.0+0.008×读数）%RH（-20℃</del>40℃）</p>
-]]></content>
-      <tags>
-        <tag>温湿度</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>CR6数据采集器</title>
     <url>/2021/09/30/CR6%E6%95%B0%E6%8D%AE%E9%87%87%E9%9B%86%E5%99%A8/</url>
     <content><![CDATA[<h1 id="CR6数据采集器"><a href="#CR6数据采集器" class="headerlink" title="CR6数据采集器"></a>CR6数据采集器</h1><p><img src="https://zt-1307572978.cos.ap-beijing.myqcloud.com/CR6.png" alt="CR6数采"></p>
@@ -185,6 +163,28 @@
     <content><![CDATA[<h1 id="Apogee-SI-411精密红外温度传感器"><a href="#Apogee-SI-411精密红外温度传感器" class="headerlink" title="Apogee SI-411精密红外温度传感器"></a>Apogee SI-411精密红外温度传感器</h1><p><img src="https://zt-1307572978.cos.ap-beijing.myqcloud.com/SI411.png" alt="SI-411"></p>
 <p> SI-411具有SDI-12数字输出。该传感器具有22°半角的视场和0.1秒的响应时间。典型应用包括用于植物水状态估计的植物冠层温度测量，测定结冰条件的路面温度测量，以及能量平衡研究中的陆地表面（土壤，植被，水，雪）温度测量。</p>
 <h2 id="主要参数"><a href="#主要参数" class="headerlink" title="主要参数"></a>主要参数</h2><p>输入电压                              4.5至24 V DC<br>电流消耗                              0.6 mA（静态），1.3 mA（工作）<br>校准不确定度（-20至65°C）     0.2°C，当目标和检测器温度在20°C内<br>校准不确定度（-40至80°C）     0.5℃，当目标和检测器温度相差大于20℃时<br>测量重复性                               小于0.05℃<br>稳定性（长期漂移）                  锗过滤器保持清洁条件下每年的斜率变化小于2％<br>响应时间                                   0.6 s，检测器信号在步进变化后达到95％的时间;SDI-12电路的最快数据传输速率为1 s<br>视野                                         22°半角<br>光谱范围                                  8至14μm的大气窗<br>操作环境                                  -55至80℃，0至100％相对湿度（非冷凝<br>尺寸                                         23mm直径，60mm长度<br>质量                                         190 g（带5 m导线）<br>电缆                                         5 m的四芯导线，屏蔽双绞线。附加电缆可提供5 m的倍数。山都平橡胶<br>                                                护套（高耐水性，高UV稳定性，在寒冷条件下的柔韧性</p>
+]]></content>
+      <tags>
+        <tag>温湿度</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Vaisala HMP155A温度相对湿度传感器</title>
+    <url>/2021/10/01/HMP155A-%E6%B8%A9%E6%B9%BF%E5%BA%A6/</url>
+    <content><![CDATA[<h1 id="Vaisala-HMP155A温度相对湿度传感器"><a href="#Vaisala-HMP155A温度相对湿度传感器" class="headerlink" title="Vaisala HMP155A温度相对湿度传感器"></a>Vaisala HMP155A温度相对湿度传感器</h1><p><img src="https://zt-1307572978.cos.ap-beijing.myqcloud.com/HMP155A.png" alt="HMP155A"></p>
+<p> HMP155A是一款性能优异的温度相对湿度传感器。它采用Vaisala最新研制的具有专利技术的HUMICAP®180R加热型相对湿度探头，并结合当前先进的制造工艺，具有卓越的稳定性和强大的环境适应能力。凭借其灵敏度更高、反应更加迅速的新型温度探头，HMP155A能够以更快的速度对环境温度的变化做出反应，让您随时掌握温度变化的第一手数据资料。HMP155A支持0~1V电压输出，对CSI的全系列数据采集器拥有良好的兼容性；其采用节能设计，仅在测量时由数据采集器供电，非工作时可停止供电。</p>
+<p>HMP155A温度湿度可广泛应用于气象观测与预报、道路环境监测、民航、工业检测等领域。为了使该传感器能够消除环境影响进行更加精确的测量，并使其拥有更加长久的使用寿命，我们建议您为其配备41005-5防辐射罩，或者将其安装在百叶箱内。</p>
+<h2 id="主要参数"><a href="#主要参数" class="headerlink" title="主要参数"></a>主要参数</h2><p>工作环境：-80℃<del>60℃，0</del>100%RH</p>
+<p>工作电压：7~28VDC</p>
+<p>输出信号：电压（0<del>1V，0</del>5V，0~10V），RS-485，Pt100（4线连接）</p>
+<p>外壳：聚碳酸酯</p>
+<p>外壳防护等级：IP66</p>
+<h2 id="温度"><a href="#温度" class="headerlink" title="温度"></a>温度</h2><p>传感器类型：Pt100 RTD 1/3 class B IEC 751</p>
+<p>量程：-80℃~60℃</p>
+<p>精度（模拟电压输出）：±(0.226-0.0028×温度范围)℃ （-80℃<del>20℃）；±(0.055+0.0057×温度范围)℃ （20℃</del>60℃）（采用RS-485信号输出时，精度优于模拟电压）</p>
+<h2 id="湿度"><a href="#湿度" class="headerlink" title="湿度"></a>湿度</h2><p>传感器类型：HUMICAP®180R</p>
+<p>量程：0.8~100% RH</p>
+<p>精度：±（1.2%+0.012×读数）%RH（-40~ -20℃，40℃<del>60℃），±（1.0+0.008×读数）%RH（-20℃</del>40℃）</p>
 ]]></content>
       <tags>
         <tag>温湿度</tag>
