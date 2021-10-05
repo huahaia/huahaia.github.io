@@ -1,159 +1,193 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search> 
-  
-  
-    
-    <entry>
-      <title>CR3000数据采集器</title>
-      <link href="/2021/10/02/CR3000%E6%95%B0%E6%8D%AE%E9%87%87%E9%9B%86%E5%99%A8%20/"/>
-      <url>/2021/10/02/CR3000%E6%95%B0%E6%8D%AE%E9%87%87%E9%9B%86%E5%99%A8%20/</url>
-      
-        <content type="html"><![CDATA[<h1 id="CR3000数据采集器"><a href="#CR3000数据采集器" class="headerlink" title="CR3000数据采集器"></a>CR3000数据采集器</h1><p><img src="https://zt-1307572978.cos.ap-beijing.myqcloud.com/CR3000.png" alt="CR3000数采"></p><p>CR3000是一款结构紧凑、性能先进、运行可靠的数据采集器。它由测量与控制设备、通讯端口、键盘、液晶显示器、供电模块以及带把手的轻质量外壳组成。</p><p>与CR1000相比，CR3000数据采集器配有数量更多的单端/差分通道、脉冲通道、电压激发通道，同时增加了电流激发通道。CR3000具有CS I/O和RS-232接口，支持SDM外围设备，支持PakBus、Modbus RTU协议，能够利用Internet、无线电、CDMA/GPRS和卫星等多种通讯方式进行数据传输，也可以直接与计算机或PDA连接（需相关软件支持）。该数据采集器还可选配带基座的一次性碱性电池或可充电锂电池为设备供电。CR3000具备符合欧盟CE、EMC标准的过压保护功能，能够防止瞬时过大电流对设备产生损害。</p><p>CR3000是一款性能强劲的数据采集器，它可以在涡动协方差系统、专业级气象研究、农业研究、风力观测、交通工具测试、航空航天研究等高端领域得到广泛应用。</p><h2 id="特点"><a href="#特点" class="headerlink" title="特点"></a>特点</h2><p>整装设计，结构紧凑</p><p>高达100Hz的扫描频率</p><p>16位A/D（模拟/数字）转换</p><p>4M内存，可扩展至16G</p><p>内嵌液晶显示屏和键盘，方便易用</p><p>表格式数据格式</p><p>支持PakBus、Modbus、DNP3、TCP/IP、FTP和SMTP协议、SDI-12协议和SDM设备</p><p>支持LoggerNet，PC400、ShortCut等软件 </p><h2 id="主要技术参数"><a href="#主要技术参数" class="headerlink" title="主要技术参数"></a>主要技术参数</h2><p>耗电量：2mA（睡眠模式），3mA（1Hz 采样频率时），10mA（100Hz采样频率时）</p><p>A/D转换：16bit</p><p>扫描频率：100Hz</p><p>模拟通道：28个单端（14个差分）</p><p>模拟电压范围：±5Vdc</p><p>模拟电压精度：±（读数*0.04%+偏移量），0℃~40℃</p><p>测量分辨率：0.33 µV</p><p>开关激发通道：4个电压，3个电流</p><p>脉冲通道：4个</p><p>控制口：3个（用于SDM），8个I/O</p><p>互联网协议：FTP，HTTP，XML POP3，SMTP，Telnet，NTCIP，NTP</p><p>通信协议：PakBus，Modbus，DNP3，SDI-12，SDM</p><p>工作温度：-25°至+ 50°C（标准），-40°至+ 85°C（扩展）</p>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> 数据采集器 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>CR800数据采集器</title>
-      <link href="/2021/10/01/CR800%E6%95%B0%E6%8D%AE%E9%87%87%E9%9B%86%E5%99%A8/"/>
-      <url>/2021/10/01/CR800%E6%95%B0%E6%8D%AE%E9%87%87%E9%9B%86%E5%99%A8/</url>
-      
-        <content type="html"><![CDATA[<h1 id="CR800数据采集器"><a href="#CR800数据采集器" class="headerlink" title="CR800数据采集器"></a>CR800数据采集器</h1><p><img src="https://zt-1307572978.cos.ap-beijing.myqcloud.com/CR800.png" alt="CR800数采"></p><p> CR800是一款低成本、体积小巧的研究级数据采集器，的含差分通道的数据采集器。它含有3个差分通道，能实现差分信号的传感器连接。该系列数据采集器有CR800和CR850两种型号。其中，CR800可外接CR1000KD手持式显示器，而CR850的面板上已集成显示器及操作键盘，方便手动传输、读数、存储数据等操作。CR800系列可以通过Internet、无线电台、CDMA/GPRS、卫星的方式进行数据远程传输。此外，它还可以直接与PDA相连接进行操作。 用户亦可选配SC115 2G数据存储U盘，它同时配有CS I/O和USB两种接口，可通过CS I/O存储数据采集器所采集到的观测数据，USB接口可以直接连接计算机。既可以作为存储介质在数据采集器和电脑之间转移数据，也可以实现数据采集器与电脑的直连。</p><p>CR850与CR800性能一致，但集成了液晶显示屏和操作键盘，可用于现场设置和状态检查。</p><h2 id="特点"><a href="#特点" class="headerlink" title="特点"></a>特点</h2><p>100Hz高速扫描</p><p>4M数据和程序存储空间</p><p>表格式数据格式</p><p>支持LoggerNet软件</p><p>支持PakBus、Modbus和DNP3协议、SDI-12协议和SDM设备</p><p>采用气体放电管（Gas Discharge Tube，GDT）保护数据输入</p><p>可外接多种扩展配件</p><h2 id="主要技术参数"><a href="#主要技术参数" class="headerlink" title="主要技术参数"></a>主要技术参数</h2><p>扫描频率：100 Hz</p><p>通讯端口：1个CS I/O ，1个RS-232</p><p>A/D转换：13bit</p><p>耗电量：约0.6mA（睡眠模式），1<del>16mA（w/o RS-232通讯时），17</del>28 mA (w/RS-232 通讯时)</p><p>模拟量输入：6个单端通道（即3个差分通道）</p><p>模拟电压范围：±5000mV</p><p>模拟电压精度：±（读数*0.06%+偏移量），0℃~40℃</p><p>测量分辨率：0.33 µV</p><p>脉冲通道：2个</p><p>控制口：4个</p><p>协议支持：PakBus，Modbus，DNP3，FTP，HTTP，XML，POP3，SMTP，Telnet，NTCIP，NTP，SDI-12，SDM</p>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> 数据采集器 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Apogee SI-411精密红外温度传感器</title>
-      <link href="/2021/10/01/SI-411-%E7%BA%A2%E5%A4%96%E6%B8%A9%E5%BA%A6/"/>
-      <url>/2021/10/01/SI-411-%E7%BA%A2%E5%A4%96%E6%B8%A9%E5%BA%A6/</url>
-      
-        <content type="html"><![CDATA[<h1 id="Apogee-SI-411精密红外温度传感器"><a href="#Apogee-SI-411精密红外温度传感器" class="headerlink" title="Apogee SI-411精密红外温度传感器"></a>Apogee SI-411精密红外温度传感器</h1><p><img src="https://zt-1307572978.cos.ap-beijing.myqcloud.com/SI411.png" alt="SI-411"></p><p> SI-411具有SDI-12数字输出。该传感器具有22°半角的视场和0.1秒的响应时间。典型应用包括用于植物水状态估计的植物冠层温度测量，测定结冰条件的路面温度测量，以及能量平衡研究中的陆地表面（土壤，植被，水，雪）温度测量。</p><h2 id="主要参数"><a href="#主要参数" class="headerlink" title="主要参数"></a>主要参数</h2><p>输入电压                              4.5至24 V DC<br>电流消耗                              0.6 mA（静态），1.3 mA（工作）<br>校准不确定度（-20至65°C）     0.2°C，当目标和检测器温度在20°C内<br>校准不确定度（-40至80°C）     0.5℃，当目标和检测器温度相差大于20℃时<br>测量重复性                               小于0.05℃<br>稳定性（长期漂移）                  锗过滤器保持清洁条件下每年的斜率变化小于2％<br>响应时间                                   0.6 s，检测器信号在步进变化后达到95％的时间;SDI-12电路的最快数据传输速率为1 s<br>视野                                         22°半角<br>光谱范围                                  8至14μm的大气窗<br>操作环境                                  -55至80℃，0至100％相对湿度（非冷凝<br>尺寸                                         23mm直径，60mm长度<br>质量                                         190 g（带5 m导线）<br>电缆                                         5 m的四芯导线，屏蔽双绞线。附加电缆可提供5 m的倍数。山都平橡胶<br>                                                护套（高耐水性，高UV稳定性，在寒冷条件下的柔韧性</p>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> 温湿度 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Vaisala HMP155A温度相对湿度传感器</title>
-      <link href="/2021/10/01/HMP155A-%E6%B8%A9%E6%B9%BF%E5%BA%A6/"/>
-      <url>/2021/10/01/HMP155A-%E6%B8%A9%E6%B9%BF%E5%BA%A6/</url>
-      
-        <content type="html"><![CDATA[<h1 id="Vaisala-HMP155A温度相对湿度传感器"><a href="#Vaisala-HMP155A温度相对湿度传感器" class="headerlink" title="Vaisala HMP155A温度相对湿度传感器"></a>Vaisala HMP155A温度相对湿度传感器</h1><p><img src="https://zt-1307572978.cos.ap-beijing.myqcloud.com/HMP155A.png" alt="HMP155A"></p><p> HMP155A是一款性能优异的温度相对湿度传感器。它采用Vaisala最新研制的具有专利技术的HUMICAP®180R加热型相对湿度探头，并结合当前先进的制造工艺，具有卓越的稳定性和强大的环境适应能力。凭借其灵敏度更高、反应更加迅速的新型温度探头，HMP155A能够以更快的速度对环境温度的变化做出反应，让您随时掌握温度变化的第一手数据资料。HMP155A支持0~1V电压输出，对CSI的全系列数据采集器拥有良好的兼容性；其采用节能设计，仅在测量时由数据采集器供电，非工作时可停止供电。</p><p>HMP155A温度湿度可广泛应用于气象观测与预报、道路环境监测、民航、工业检测等领域。为了使该传感器能够消除环境影响进行更加精确的测量，并使其拥有更加长久的使用寿命，我们建议您为其配备41005-5防辐射罩，或者将其安装在百叶箱内。</p><h2 id="主要参数"><a href="#主要参数" class="headerlink" title="主要参数"></a>主要参数</h2><p>工作环境：-80℃<del>60℃，0</del>100%RH</p><p>工作电压：7~28VDC</p><p>输出信号：电压（0<del>1V，0</del>5V，0~10V），RS-485，Pt100（4线连接）</p><p>外壳：聚碳酸酯</p><p>外壳防护等级：IP66</p><h2 id="温度"><a href="#温度" class="headerlink" title="温度"></a>温度</h2><p>传感器类型：Pt100 RTD 1/3 class B IEC 751</p><p>量程：-80℃~60℃</p><p>精度（模拟电压输出）：±(0.226-0.0028×温度范围)℃ （-80℃<del>20℃）；±(0.055+0.0057×温度范围)℃ （20℃</del>60℃）（采用RS-485信号输出时，精度优于模拟电压）</p><h2 id="湿度"><a href="#湿度" class="headerlink" title="湿度"></a>湿度</h2><p>传感器类型：HUMICAP®180R</p><p>量程：0.8~100% RH</p><p>精度：±（1.2%+0.012×读数）%RH（-40~ -20℃，40℃<del>60℃），±（1.0+0.008×读数）%RH（-20℃</del>40℃）</p>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> 温湿度 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>CR6数据采集器</title>
-      <link href="/2021/09/30/CR6%E6%95%B0%E6%8D%AE%E9%87%87%E9%9B%86%E5%99%A8/"/>
-      <url>/2021/09/30/CR6%E6%95%B0%E6%8D%AE%E9%87%87%E9%9B%86%E5%99%A8/</url>
-      
-        <content type="html"><![CDATA[<h1 id="CR6数据采集器"><a href="#CR6数据采集器" class="headerlink" title="CR6数据采集器"></a>CR6数据采集器</h1><p><img src="https://zt-1307572978.cos.ap-beijing.myqcloud.com/CR6.png" alt="CR6数采"></p><p>CR6数据采集器是一款强大的系统控制单元，集数据采集与系统控制等核心功能于一体，它在继承CSI的CR系列采集器数十年来的高品质的基础上，博取百家之长，包容并蓄，集成了microUSB口、Ethernet网络接口（WiFi选配），支持MicroSD卡扩展，同时保留了原有的高性能CS I/O、RS-232等接口，使这套数据采集单元具有非常丰富和完善的扩展性，能够支持众多类型的传感器和扩展模块/设备。</p><p>此外，CR6数据采集器进一步提高了CR数据采集器原有的模拟输入精度和分辨率，通讯速率更高，而功耗更低。</p><p>CR6第一次引入通用端子（Universal terminal）概念，通过巧妙的设计，“通用端子”（U terminal）能够兼容几乎所有的模拟/数字传感器或智能传感器。同时，CR6也是我们第一款具有静态振弦测量功能的多功能数据采集器。<br>CR6-WiFi能够轻松将这套观测系统接入互联网络，省掉了以往繁琐的数据模块转换，非常便于进行近程数据传输。同时，利用免费版的LoggerLink Mobile App移动应用，您通过手机或者iPad即可实现对CR6-WiFi数据采集器，乃至其控制的整个观测系统进行管理和维护。</p><h2 id="特点"><a href="#特点" class="headerlink" title="特点"></a>特点</h2><p>可自定义通用端子：模拟/数字，输入/输出任您掌控<br>支持太阳能板、直流、12V电池或USB等多种供电方式<br>静态振弦测量采用厂家独有的谱分析专利技术<br>标配10/100M Ethernet网口，可选配WiFi功能<br>支持MicroSD卡扩展（最大16GB）<br>支持网络服务器功能，可实现数据显示、在线配置和诊断<br>CRBasic 或 SCWin 编程，兼容 PakBus 协议<br>支持 CPI 通讯，支持 Campbell 高速传感器和分布模块（CDM）</p><h2 id="主要技术参数"><a href="#主要技术参数" class="headerlink" title="主要技术参数"></a>主要技术参数</h2><p>CPU: 32bit，FPU，100Hz，1MB运存<br>时钟精度: ±3分钟/年；10μm（选配GPS）<br>测量分辨率: 80nV（±200mV范围内）<br>模拟精度: 精度规格不包括传感器或测量噪声<br>                在0°至40°C时±（0.04％的测量值+偏移量）<br>                在-40°至+ 70°C时±（0.06％的测量值+偏移量）<br>                ±（0.08％测量值+偏移量）-55°至+ 85°C（扩展温度范围）<br>测量速率: 125Hz（8ms）（最大多路复用模拟）<br>数据存储: 4 MB SRAM + 72 MB闪存（带可移动microSD闪存卡的存储扩展速度高达16 GB。）<br>供电: 16-32VDC（1.2A）太阳能板充电；12VDC电池；内部电池；USB<br>工作温度: -40<del>70℃（标准），-55℃</del>85℃（扩展）<br>通用端子: 12个，模拟/数字<br>开关端子: 2个<br>控制端子: 数字I/O，RS232/RS485，半/全双工<br>数据接口: CS I/O<em>1个；CPI</em>1个；RJ-45 Ethernet 10/100M<em>1个；USB-micro B</em>1个<br>控制口: 3个（用于SDM），8个I/O<br>通讯协议: PakBus、Modbus、DNP3、IPv4/6、FTP/FTPS、HTTP/HTTPS、PPP、TLSv1.1、XML、TCP、UDP、DHCP、POP3、SMTP/STLS、JSON、CSV<br>外形尺寸: 21cm×10.2cm×5.7cm<br>重量: 约420g（CR6）；约500g（CR6-WiFi）</p>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> 数据采集器 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>CR1000数据采集器</title>
-      <link href="/2021/09/24/CR1000%E6%95%B0%E6%8D%AE%E9%87%87%E9%9B%86%E5%99%A8/"/>
-      <url>/2021/09/24/CR1000%E6%95%B0%E6%8D%AE%E9%87%87%E9%9B%86%E5%99%A8/</url>
-      
-        <content type="html"><![CDATA[<h1 id="CR1000数据采集器"><a href="#CR1000数据采集器" class="headerlink" title="CR1000数据采集器"></a>CR1000数据采集器</h1><p><img src="https://zt-1307572978.cos.ap-beijing.myqcloud.com/CR1000.png" alt="CR1000数采"></p><p>CR1000数据采集器是Campbell数据采集器里面性价比最高的一款。它提供传感器的测量、时间设置、数据压缩、数据和程序的储存以及控制功能，由一个测量控制模块和一个配线盘组成，具有强大的网络通讯能力。</p><p> CR1000数据采集器的扫描速率能够达到100Hz，拥有模拟输入、脉冲计数、电压激发转换、数字等多个端口，外围接口有CS I/O、RS-232以及SDM等，采用12VDC外接可充电电池供电。对于低温的环境，用户还可以选择低温型的CR1000-XT数据采集器。</p><p>  CR1000所具有的高精度性、高适应性、高可靠性以及合理的价格等特点，使其成为科研、商业与工业系统应用的理想选择。目前，CR1000数据采集器已在气象观测、农业研究、土壤水分研究、风力观测、道路气象站、工业产品测试、通量观测、涡动协方差系统等众多领域得到了广泛应用。</p><p>  标准的CR1000数据采集器包含4M的数据和程序存储空间，可通过外接存储模块和CF存储卡来实现16G大容量数据存储。数据和程序保存在非失忆性闪存和内存里。锂电池装在内存和实时时钟上。当首选电池（BPALK，PS100）电压降至9.6V以下时，CR1000也能够延缓执行操作，从而减少不准确测量的可能性。CR1000可以通过外围设备扩展从而形成一个数据采集系统。很多CR1000系统可以构建一个网络从而形成当地或整个地区的监测网络。</p><h2 id="特点"><a href="#特点" class="headerlink" title="特点"></a>特点</h2><p>内部温度补偿，实时时钟，超时和温度变化实时校准数据以表格形式存储</p><p>具有强大的网络通讯能力</p><p>采用气体放电管（Gas Discharge Tube，GDT）保护数据输入</p><p>软件支持：LoggerNet3.4/4.0，PC4001.2,或者ShortCut2.2</p><p>配备内部锂电池支持SRAM存储和时钟以确保数据、程序和精确的时间</p><p>支持多种扩展配件，使用方便</p><p>CSI/O和RS-232串行接口</p><p>互联网协议：FTP，HTTP，XML，POP3，SMTP，Telnet，NTCIP，NTP</p><p>通信协议：PakBus，Modbus，DNP3，SDI-12，SDM</p><h2 id="主要技术参数"><a href="#主要技术参数" class="headerlink" title="主要技术参数"></a>主要技术参数</h2><p>最大扫描速率：1000Hz</p><p>模拟输入：16个单端通道（8个差分）</p><p>脉冲通道：2个</p><p>工作温度： -25℃至50℃（标准），-55℃至85℃（扩展）</p><p>内存：标准为4M内存，可扩展至16G</p><p>供电电压：9.6~16VDC</p><p>A/D转换：13bit</p><p>微型控制器：16-bit H8S Hitachi，32-bit内部CPU</p>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> 数据采集器 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>CR300数据采集器</title>
-      <link href="/2021/09/24/CR300%E6%95%B0%E6%8D%AE%E9%87%87%E9%9B%86%E5%99%A8/"/>
-      <url>/2021/09/24/CR300%E6%95%B0%E6%8D%AE%E9%87%87%E9%9B%86%E5%99%A8/</url>
-      
-        <content type="html"><![CDATA[<h1 id="CR300数据采集器"><a href="#CR300数据采集器" class="headerlink" title="CR300数据采集器"></a>CR300数据采集器</h1><p><img src="https://zt-1307572978.cos.ap-beijing.myqcloud.com/CR300%E6%95%B0%E9%87%87.png" alt="CR300数采"></p><p>  CR300是一款多功能、紧凑型、高性价比的入门级数据采集器。它拥有丰富的指令集，兼容大多数水文、气象、环境以及工业方面的传感器，可以通过多种方式采集数据，并根据更适合用户的通讯协议进行传输。CR300也可以进行本地或远程的自动化操作，控制和M2M通信，适用于需要长期监测，远程监控的小型系统。</p><h2 id="特点"><a href="#特点" class="headerlink" title="特点"></a>特点</h2><p>内置充电控制器（使用太阳能板），可以就地给电池充电</p><p>功耗低，节能</p><p>通过更高分辨率的测量（24位Adc），甚至可以区分数据值的微小变化</p><p>测量各种模拟电压或电流传感器</p><p>测量各种脉冲输出或串行/数字传感器</p><p>通过连接各种通讯设备进行远程监控</p><p>使用Pakbus,Modbus,DNP3以及其他标准协议通讯</p><p>发送加密/安全邮件信息和警报</p><p>Campbell品质的浪涌和静电防护</p><p>使用USB端口，简化PC建立连接设置</p><h2 id="主要技术参数"><a href="#主要技术参数" class="headerlink" title="主要技术参数"></a>主要技术参数</h2><p>工作温度范围  (℃ )：-40℃ ~70℃（标准）</p><p>最大扫描速率：10 Hz</p><p>模拟输入：6  个单端或 3 对差分</p><p>脉冲通道数：8个（P_SW,P_LL,C1,C2和SE1-SE4）</p><p>开关激发通道：2 个（VX1、VX2）</p><p>通讯 / 数据存储端口：1  个 RS-232,1 个  USB</p><p>12V控制端口：1个</p><p>数字端口I/O：7 个（C1，C2，P_SW和SE1至SE4）可配置为数字输入和输出</p><p>输入电压量程（Vdc）：-100~ +2500 mV</p><p>模拟电压精度：±（0.1%测量值+偏移量）@ -40～70℃，±（0.04%读数+偏移量）@ 0～40℃</p><p>模拟数字转换位数（A/D）: 24位</p><p>采集器供电范围：16-32V</p><p>实时时钟精度：±1min/月</p><p>可支持的网络协议：Ethernet, PPP, RNDIS, ICMP/Ping, Auto-IP(APIPA), IPv4, IPv6, UDP, TCP, TLS (v1.2), DNS, DHCP, SLAAC, NTP, Telnet, HTTP(S), FTP(S), SMTP/TLS, POP3/TLS</p><p>可支持的通信协议：PakBus, Modbus, DNP3, SDI-12, TCP, UDP, and others</p><p>内    存：30MB（数据存储）；80MB(CPU驱动/程序存储)</p><p>尺寸：13.97 x 7.62 x 4.56 cm</p><p>重量：242g～249.5g(取决于所选择的通讯方式)</p>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> 数据采集器 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>CR1000X数据采集器</title>
-      <link href="/2021/09/23/CR1000X%E6%95%B0%E6%8D%AE%E9%87%87%E9%9B%86%E5%99%A8/"/>
-      <url>/2021/09/23/CR1000X%E6%95%B0%E6%8D%AE%E9%87%87%E9%9B%86%E5%99%A8/</url>
-      
-        <content type="html"><![CDATA[<h1 id="CR1000X数据采集器"><a href="#CR1000X数据采集器" class="headerlink" title="CR1000X数据采集器"></a>CR1000X数据采集器</h1><p><img src="https://zt-1307572978.cos.ap-beijing.myqcloud.com/CR1000X.png" alt="CR1000X数采"></p><p>CR1000X 是我们的一款旗舰型产品，在测量和控制方面能满足广泛的需求。CR1000X的可靠性和坚固程度保证了它可以应用于：气象站、中尺度气象网、风廓线、空气质量监测、水文系统、水质监测、水文气象站等领域。</p><p>CR1000X同时具备低功耗的优势，体现在传感器测量、直接/远程通讯连接、数据分析、外部设备控制、数据和程序存储等方面。CR1000X采用密封装置屏蔽射频干扰，具备精密时钟、类似BASIC编程语言、数据处理和分析等功能</p><h2 id="特点"><a href="#特点" class="headerlink" title="特点"></a>特点</h2><p>高环境适应性，温度工作范围最大可达-55℃~85℃（限CR1000X-XT）<br>支持太阳能板、直流、12V电池或USB等多种供电方式<br>具备300+MHz的快速模拟测量功能<br>标配10/100M Ethernet网口，可选配WiFi功能<br>标配USB接口可直连电脑<br>支持MicroSD卡扩展（最大8GB）<br>支持网络服务器功能，可实现数据显示、在线配置和诊断<br>支持 CPI 通讯，支持 Campbell 高速传感器和分布模块（CDM</p><h2 id="主要技术参数"><a href="#主要技术参数" class="headerlink" title="主要技术参数"></a>主要技术参数</h2><p>CPU: 32bit，FPU，100Hz，1MB运存<br>内存: 128MB，可通过MicroSD卡扩展8GB<br>时钟精度: ±3分钟/年；10μm（选配GPS）<br>测量分辨率: 0.02μV RMS<br>模拟精度: ±（0.04%读数+漂移）<br>供电 :16-32VDC（1.2A）太阳能板充电；12VDC电池；内部电池；USB<br>工作温度: -40至70℃（标准），-55℃至85℃（扩展）<br>模拟输入: 16个单端通道（8个差分）<br>控制端子: 数字I/O，RS232/RS485，半/全双工<br>数据接口: CS I/O<em>1个；CPI/CDM</em>1个；RJ-45 Ethernet 10/100M<em>1个；USB-micro B</em>1个<br>互联网协议：以太网，PPP，CS I / O IP，RNDIS，ICMP / Ping，自动IP（APIPA），IPv4，IPv6，UDP，TCP，TLS，DNS，DHCP，SLAAC，SNMPv3，NTP，Telnet，HTTP（S）， FTP（S），SMTP / TLS，POP3 / TLS<br>通讯协议: CPI，PakBus，SDM，SDI-12，Modbus，TCP，DNP3，UDP，NTCIP，NMEA 0183，I2C，SPI等<br>外形尺寸: 23.8cm×10.1cm×6.2cm<br>重量 :约0.86kg</p>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> 数据采集器 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-  
-  
+<search>
+  <entry>
+    <title>CR1000数据采集器</title>
+    <url>/2021/09/24/CR1000%E6%95%B0%E6%8D%AE%E9%87%87%E9%9B%86%E5%99%A8/</url>
+    <content><![CDATA[<h1 id="CR1000数据采集器"><a href="#CR1000数据采集器" class="headerlink" title="CR1000数据采集器"></a>CR1000数据采集器</h1><p><img src="https://zt-1307572978.cos.ap-beijing.myqcloud.com/CR1000.png" alt="CR1000数采"></p>
+<p>CR1000数据采集器是Campbell数据采集器里面性价比最高的一款。它提供传感器的测量、时间设置、数据压缩、数据和程序的储存以及控制功能，由一个测量控制模块和一个配线盘组成，具有强大的网络通讯能力。</p>
+<p> CR1000数据采集器的扫描速率能够达到100Hz，拥有模拟输入、脉冲计数、电压激发转换、数字等多个端口，外围接口有CS I/O、RS-232以及SDM等，采用12VDC外接可充电电池供电。对于低温的环境，用户还可以选择低温型的CR1000-XT数据采集器。</p>
+<p>  CR1000所具有的高精度性、高适应性、高可靠性以及合理的价格等特点，使其成为科研、商业与工业系统应用的理想选择。目前，CR1000数据采集器已在气象观测、农业研究、土壤水分研究、风力观测、道路气象站、工业产品测试、通量观测、涡动协方差系统等众多领域得到了广泛应用。</p>
+<p>  标准的CR1000数据采集器包含4M的数据和程序存储空间，可通过外接存储模块和CF存储卡来实现16G大容量数据存储。数据和程序保存在非失忆性闪存和内存里。锂电池装在内存和实时时钟上。当首选电池（BPALK，PS100）电压降至9.6V以下时，CR1000也能够延缓执行操作，从而减少不准确测量的可能性。CR1000可以通过外围设备扩展从而形成一个数据采集系统。很多CR1000系统可以构建一个网络从而形成当地或整个地区的监测网络。</p>
+<h2 id="特点"><a href="#特点" class="headerlink" title="特点"></a>特点</h2><p>内部温度补偿，实时时钟，超时和温度变化实时校准数据以表格形式存储</p>
+<p>具有强大的网络通讯能力</p>
+<p>采用气体放电管（Gas Discharge Tube，GDT）保护数据输入</p>
+<p>软件支持：LoggerNet3.4/4.0，PC4001.2,或者ShortCut2.2</p>
+<p>配备内部锂电池支持SRAM存储和时钟以确保数据、程序和精确的时间</p>
+<p>支持多种扩展配件，使用方便</p>
+<p>CSI/O和RS-232串行接口</p>
+<p>互联网协议：FTP，HTTP，XML，POP3，SMTP，Telnet，NTCIP，NTP</p>
+<p>通信协议：PakBus，Modbus，DNP3，SDI-12，SDM</p>
+<h2 id="主要技术参数"><a href="#主要技术参数" class="headerlink" title="主要技术参数"></a>主要技术参数</h2><p>最大扫描速率：1000Hz</p>
+<p>模拟输入：16个单端通道（8个差分）</p>
+<p>脉冲通道：2个</p>
+<p>工作温度： -25℃至50℃（标准），-55℃至85℃（扩展）</p>
+<p>内存：标准为4M内存，可扩展至16G</p>
+<p>供电电压：9.6~16VDC</p>
+<p>A/D转换：13bit</p>
+<p>微型控制器：16-bit H8S Hitachi，32-bit内部CPU</p>
+]]></content>
+      <tags>
+        <tag>数据采集器</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>CR1000X数据采集器</title>
+    <url>/2021/09/23/CR1000X%E6%95%B0%E6%8D%AE%E9%87%87%E9%9B%86%E5%99%A8/</url>
+    <content><![CDATA[<h1 id="CR1000X数据采集器"><a href="#CR1000X数据采集器" class="headerlink" title="CR1000X数据采集器"></a>CR1000X数据采集器</h1><p><img src="https://zt-1307572978.cos.ap-beijing.myqcloud.com/CR1000X.png" alt="CR1000X数采"></p>
+<p>CR1000X 是我们的一款旗舰型产品，在测量和控制方面能满足广泛的需求。CR1000X的可靠性和坚固程度保证了它可以应用于：气象站、中尺度气象网、风廓线、空气质量监测、水文系统、水质监测、水文气象站等领域。</p>
+<p>CR1000X同时具备低功耗的优势，体现在传感器测量、直接/远程通讯连接、数据分析、外部设备控制、数据和程序存储等方面。CR1000X采用密封装置屏蔽射频干扰，具备精密时钟、类似BASIC编程语言、数据处理和分析等功能</p>
+<h2 id="特点"><a href="#特点" class="headerlink" title="特点"></a>特点</h2><p>高环境适应性，温度工作范围最大可达-55℃~85℃（限CR1000X-XT）<br>支持太阳能板、直流、12V电池或USB等多种供电方式<br>具备300+MHz的快速模拟测量功能<br>标配10/100M Ethernet网口，可选配WiFi功能<br>标配USB接口可直连电脑<br>支持MicroSD卡扩展（最大8GB）<br>支持网络服务器功能，可实现数据显示、在线配置和诊断<br>支持 CPI 通讯，支持 Campbell 高速传感器和分布模块（CDM</p>
+<h2 id="主要技术参数"><a href="#主要技术参数" class="headerlink" title="主要技术参数"></a>主要技术参数</h2><p>CPU: 32bit，FPU，100Hz，1MB运存<br>内存: 128MB，可通过MicroSD卡扩展8GB<br>时钟精度: ±3分钟/年；10μm（选配GPS）<br>测量分辨率: 0.02μV RMS<br>模拟精度: ±（0.04%读数+漂移）<br>供电 :16-32VDC（1.2A）太阳能板充电；12VDC电池；内部电池；USB<br>工作温度: -40至70℃（标准），-55℃至85℃（扩展）<br>模拟输入: 16个单端通道（8个差分）<br>控制端子: 数字I/O，RS232/RS485，半/全双工<br>数据接口: CS I/O<em>1个；CPI/CDM</em>1个；RJ-45 Ethernet 10/100M<em>1个；USB-micro B</em>1个<br>互联网协议：以太网，PPP，CS I / O IP，RNDIS，ICMP / Ping，自动IP（APIPA），IPv4，IPv6，UDP，TCP，TLS，DNS，DHCP，SLAAC，SNMPv3，NTP，Telnet，HTTP（S）， FTP（S），SMTP / TLS，POP3 / TLS<br>通讯协议: CPI，PakBus，SDM，SDI-12，Modbus，TCP，DNP3，UDP，NTCIP，NMEA 0183，I2C，SPI等<br>外形尺寸: 23.8cm×10.1cm×6.2cm<br>重量 :约0.86kg</p>
+]]></content>
+      <tags>
+        <tag>数据采集器</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>CR3000数据采集器</title>
+    <url>/2021/10/02/CR3000%E6%95%B0%E6%8D%AE%E9%87%87%E9%9B%86%E5%99%A8%20/</url>
+    <content><![CDATA[<h1 id="CR3000数据采集器"><a href="#CR3000数据采集器" class="headerlink" title="CR3000数据采集器"></a>CR3000数据采集器</h1><p><img src="https://zt-1307572978.cos.ap-beijing.myqcloud.com/CR3000.png" alt="CR3000数采"></p>
+<p>CR3000是一款结构紧凑、性能先进、运行可靠的数据采集器。它由测量与控制设备、通讯端口、键盘、液晶显示器、供电模块以及带把手的轻质量外壳组成。</p>
+<p>与CR1000相比，CR3000数据采集器配有数量更多的单端/差分通道、脉冲通道、电压激发通道，同时增加了电流激发通道。CR3000具有CS I/O和RS-232接口，支持SDM外围设备，支持PakBus、Modbus RTU协议，能够利用Internet、无线电、CDMA/GPRS和卫星等多种通讯方式进行数据传输，也可以直接与计算机或PDA连接（需相关软件支持）。该数据采集器还可选配带基座的一次性碱性电池或可充电锂电池为设备供电。CR3000具备符合欧盟CE、EMC标准的过压保护功能，能够防止瞬时过大电流对设备产生损害。</p>
+<p>CR3000是一款性能强劲的数据采集器，它可以在涡动协方差系统、专业级气象研究、农业研究、风力观测、交通工具测试、航空航天研究等高端领域得到广泛应用。</p>
+<h2 id="特点"><a href="#特点" class="headerlink" title="特点"></a>特点</h2><p>整装设计，结构紧凑</p>
+<p>高达100Hz的扫描频率</p>
+<p>16位A/D（模拟/数字）转换</p>
+<p>4M内存，可扩展至16G</p>
+<p>内嵌液晶显示屏和键盘，方便易用</p>
+<p>表格式数据格式</p>
+<p>支持PakBus、Modbus、DNP3、TCP/IP、FTP和SMTP协议、SDI-12协议和SDM设备</p>
+<p>支持LoggerNet，PC400、ShortCut等软件 </p>
+<h2 id="主要技术参数"><a href="#主要技术参数" class="headerlink" title="主要技术参数"></a>主要技术参数</h2><p>耗电量：2mA（睡眠模式），3mA（1Hz 采样频率时），10mA（100Hz采样频率时）</p>
+<p>A/D转换：16bit</p>
+<p>扫描频率：100Hz</p>
+<p>模拟通道：28个单端（14个差分）</p>
+<p>模拟电压范围：±5Vdc</p>
+<p>模拟电压精度：±（读数*0.04%+偏移量），0℃~40℃</p>
+<p>测量分辨率：0.33 µV</p>
+<p>开关激发通道：4个电压，3个电流</p>
+<p>脉冲通道：4个</p>
+<p>控制口：3个（用于SDM），8个I/O</p>
+<p>互联网协议：FTP，HTTP，XML POP3，SMTP，Telnet，NTCIP，NTP</p>
+<p>通信协议：PakBus，Modbus，DNP3，SDI-12，SDM</p>
+<p>工作温度：-25°至+ 50°C（标准），-40°至+ 85°C（扩展）</p>
+]]></content>
+      <tags>
+        <tag>数据采集器</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>CR300数据采集器</title>
+    <url>/2021/09/24/CR300%E6%95%B0%E6%8D%AE%E9%87%87%E9%9B%86%E5%99%A8/</url>
+    <content><![CDATA[<h1 id="CR300数据采集器"><a href="#CR300数据采集器" class="headerlink" title="CR300数据采集器"></a>CR300数据采集器</h1><p><img src="https://zt-1307572978.cos.ap-beijing.myqcloud.com/CR300%E6%95%B0%E9%87%87.png" alt="CR300数采"></p>
+<p>  CR300是一款多功能、紧凑型、高性价比的入门级数据采集器。它拥有丰富的指令集，兼容大多数水文、气象、环境以及工业方面的传感器，可以通过多种方式采集数据，并根据更适合用户的通讯协议进行传输。CR300也可以进行本地或远程的自动化操作，控制和M2M通信，适用于需要长期监测，远程监控的小型系统。</p>
+<h2 id="特点"><a href="#特点" class="headerlink" title="特点"></a>特点</h2><p>内置充电控制器（使用太阳能板），可以就地给电池充电</p>
+<p>功耗低，节能</p>
+<p>通过更高分辨率的测量（24位Adc），甚至可以区分数据值的微小变化</p>
+<p>测量各种模拟电压或电流传感器</p>
+<p>测量各种脉冲输出或串行/数字传感器</p>
+<p>通过连接各种通讯设备进行远程监控</p>
+<p>使用Pakbus,Modbus,DNP3以及其他标准协议通讯</p>
+<p>发送加密/安全邮件信息和警报</p>
+<p>Campbell品质的浪涌和静电防护</p>
+<p>使用USB端口，简化PC建立连接设置</p>
+<h2 id="主要技术参数"><a href="#主要技术参数" class="headerlink" title="主要技术参数"></a>主要技术参数</h2><p>工作温度范围  (℃ )：-40℃ ~70℃（标准）</p>
+<p>最大扫描速率：10 Hz</p>
+<p>模拟输入：6  个单端或 3 对差分</p>
+<p>脉冲通道数：8个（P_SW,P_LL,C1,C2和SE1-SE4）</p>
+<p>开关激发通道：2 个（VX1、VX2）</p>
+<p>通讯 / 数据存储端口：1  个 RS-232,1 个  USB</p>
+<p>12V控制端口：1个</p>
+<p>数字端口I/O：7 个（C1，C2，P_SW和SE1至SE4）可配置为数字输入和输出</p>
+<p>输入电压量程（Vdc）：-100~ +2500 mV</p>
+<p>模拟电压精度：±（0.1%测量值+偏移量）@ -40～70℃，±（0.04%读数+偏移量）@ 0～40℃</p>
+<p>模拟数字转换位数（A/D）: 24位</p>
+<p>采集器供电范围：16-32V</p>
+<p>实时时钟精度：±1min/月</p>
+<p>可支持的网络协议：Ethernet, PPP, RNDIS, ICMP/Ping, Auto-IP(APIPA), IPv4, IPv6, UDP, TCP, TLS (v1.2), DNS, DHCP, SLAAC, NTP, Telnet, HTTP(S), FTP(S), SMTP/TLS, POP3/TLS</p>
+<p>可支持的通信协议：PakBus, Modbus, DNP3, SDI-12, TCP, UDP, and others</p>
+<p>内    存：30MB（数据存储）；80MB(CPU驱动/程序存储)</p>
+<p>尺寸：13.97 x 7.62 x 4.56 cm</p>
+<p>重量：242g～249.5g(取决于所选择的通讯方式)</p>
+]]></content>
+      <tags>
+        <tag>数据采集器</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Vaisala HMP155A温度相对湿度传感器</title>
+    <url>/2021/10/01/HMP155A-%E6%B8%A9%E6%B9%BF%E5%BA%A6/</url>
+    <content><![CDATA[<h1 id="Vaisala-HMP155A温度相对湿度传感器"><a href="#Vaisala-HMP155A温度相对湿度传感器" class="headerlink" title="Vaisala HMP155A温度相对湿度传感器"></a>Vaisala HMP155A温度相对湿度传感器</h1><p><img src="https://zt-1307572978.cos.ap-beijing.myqcloud.com/HMP155A.png" alt="HMP155A"></p>
+<p> HMP155A是一款性能优异的温度相对湿度传感器。它采用Vaisala最新研制的具有专利技术的HUMICAP®180R加热型相对湿度探头，并结合当前先进的制造工艺，具有卓越的稳定性和强大的环境适应能力。凭借其灵敏度更高、反应更加迅速的新型温度探头，HMP155A能够以更快的速度对环境温度的变化做出反应，让您随时掌握温度变化的第一手数据资料。HMP155A支持0~1V电压输出，对CSI的全系列数据采集器拥有良好的兼容性；其采用节能设计，仅在测量时由数据采集器供电，非工作时可停止供电。</p>
+<p>HMP155A温度湿度可广泛应用于气象观测与预报、道路环境监测、民航、工业检测等领域。为了使该传感器能够消除环境影响进行更加精确的测量，并使其拥有更加长久的使用寿命，我们建议您为其配备41005-5防辐射罩，或者将其安装在百叶箱内。</p>
+<h2 id="主要参数"><a href="#主要参数" class="headerlink" title="主要参数"></a>主要参数</h2><p>工作环境：-80℃<del>60℃，0</del>100%RH</p>
+<p>工作电压：7~28VDC</p>
+<p>输出信号：电压（0<del>1V，0</del>5V，0~10V），RS-485，Pt100（4线连接）</p>
+<p>外壳：聚碳酸酯</p>
+<p>外壳防护等级：IP66</p>
+<h2 id="温度"><a href="#温度" class="headerlink" title="温度"></a>温度</h2><p>传感器类型：Pt100 RTD 1/3 class B IEC 751</p>
+<p>量程：-80℃~60℃</p>
+<p>精度（模拟电压输出）：±(0.226-0.0028×温度范围)℃ （-80℃<del>20℃）；±(0.055+0.0057×温度范围)℃ （20℃</del>60℃）（采用RS-485信号输出时，精度优于模拟电压）</p>
+<h2 id="湿度"><a href="#湿度" class="headerlink" title="湿度"></a>湿度</h2><p>传感器类型：HUMICAP®180R</p>
+<p>量程：0.8~100% RH</p>
+<p>精度：±（1.2%+0.012×读数）%RH（-40~ -20℃，40℃<del>60℃），±（1.0+0.008×读数）%RH（-20℃</del>40℃）</p>
+]]></content>
+      <tags>
+        <tag>温湿度</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>CR6数据采集器</title>
+    <url>/2021/09/30/CR6%E6%95%B0%E6%8D%AE%E9%87%87%E9%9B%86%E5%99%A8/</url>
+    <content><![CDATA[<h1 id="CR6数据采集器"><a href="#CR6数据采集器" class="headerlink" title="CR6数据采集器"></a>CR6数据采集器</h1><p><img src="https://zt-1307572978.cos.ap-beijing.myqcloud.com/CR6.png" alt="CR6数采"></p>
+<p>CR6数据采集器是一款强大的系统控制单元，集数据采集与系统控制等核心功能于一体，它在继承CSI的CR系列采集器数十年来的高品质的基础上，博取百家之长，包容并蓄，集成了microUSB口、Ethernet网络接口（WiFi选配），支持MicroSD卡扩展，同时保留了原有的高性能CS I/O、RS-232等接口，使这套数据采集单元具有非常丰富和完善的扩展性，能够支持众多类型的传感器和扩展模块/设备。</p>
+<p>此外，CR6数据采集器进一步提高了CR数据采集器原有的模拟输入精度和分辨率，通讯速率更高，而功耗更低。</p>
+<p>CR6第一次引入通用端子（Universal terminal）概念，通过巧妙的设计，“通用端子”（U terminal）能够兼容几乎所有的模拟/数字传感器或智能传感器。同时，CR6也是我们第一款具有静态振弦测量功能的多功能数据采集器。<br>CR6-WiFi能够轻松将这套观测系统接入互联网络，省掉了以往繁琐的数据模块转换，非常便于进行近程数据传输。同时，利用免费版的LoggerLink Mobile App移动应用，您通过手机或者iPad即可实现对CR6-WiFi数据采集器，乃至其控制的整个观测系统进行管理和维护。</p>
+<h2 id="特点"><a href="#特点" class="headerlink" title="特点"></a>特点</h2><p>可自定义通用端子：模拟/数字，输入/输出任您掌控<br>支持太阳能板、直流、12V电池或USB等多种供电方式<br>静态振弦测量采用厂家独有的谱分析专利技术<br>标配10/100M Ethernet网口，可选配WiFi功能<br>支持MicroSD卡扩展（最大16GB）<br>支持网络服务器功能，可实现数据显示、在线配置和诊断<br>CRBasic 或 SCWin 编程，兼容 PakBus 协议<br>支持 CPI 通讯，支持 Campbell 高速传感器和分布模块（CDM）</p>
+<h2 id="主要技术参数"><a href="#主要技术参数" class="headerlink" title="主要技术参数"></a>主要技术参数</h2><p>CPU: 32bit，FPU，100Hz，1MB运存<br>时钟精度: ±3分钟/年；10μm（选配GPS）<br>测量分辨率: 80nV（±200mV范围内）<br>模拟精度: 精度规格不包括传感器或测量噪声<br>                在0°至40°C时±（0.04％的测量值+偏移量）<br>                在-40°至+ 70°C时±（0.06％的测量值+偏移量）<br>                ±（0.08％测量值+偏移量）-55°至+ 85°C（扩展温度范围）<br>测量速率: 125Hz（8ms）（最大多路复用模拟）<br>数据存储: 4 MB SRAM + 72 MB闪存（带可移动microSD闪存卡的存储扩展速度高达16 GB。）<br>供电: 16-32VDC（1.2A）太阳能板充电；12VDC电池；内部电池；USB<br>工作温度: -40<del>70℃（标准），-55℃</del>85℃（扩展）<br>通用端子: 12个，模拟/数字<br>开关端子: 2个<br>控制端子: 数字I/O，RS232/RS485，半/全双工<br>数据接口: CS I/O<em>1个；CPI</em>1个；RJ-45 Ethernet 10/100M<em>1个；USB-micro B</em>1个<br>控制口: 3个（用于SDM），8个I/O<br>通讯协议: PakBus、Modbus、DNP3、IPv4/6、FTP/FTPS、HTTP/HTTPS、PPP、TLSv1.1、XML、TCP、UDP、DHCP、POP3、SMTP/STLS、JSON、CSV<br>外形尺寸: 21cm×10.2cm×5.7cm<br>重量: 约420g（CR6）；约500g（CR6-WiFi）</p>
+]]></content>
+      <tags>
+        <tag>数据采集器</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>CR800数据采集器</title>
+    <url>/2021/10/01/CR800%E6%95%B0%E6%8D%AE%E9%87%87%E9%9B%86%E5%99%A8/</url>
+    <content><![CDATA[<h1 id="CR800数据采集器"><a href="#CR800数据采集器" class="headerlink" title="CR800数据采集器"></a>CR800数据采集器</h1><p><img src="https://zt-1307572978.cos.ap-beijing.myqcloud.com/CR800.png" alt="CR800数采"></p>
+<p> CR800是一款低成本、体积小巧的研究级数据采集器，的含差分通道的数据采集器。它含有3个差分通道，能实现差分信号的传感器连接。该系列数据采集器有CR800和CR850两种型号。其中，CR800可外接CR1000KD手持式显示器，而CR850的面板上已集成显示器及操作键盘，方便手动传输、读数、存储数据等操作。CR800系列可以通过Internet、无线电台、CDMA/GPRS、卫星的方式进行数据远程传输。此外，它还可以直接与PDA相连接进行操作。 用户亦可选配SC115 2G数据存储U盘，它同时配有CS I/O和USB两种接口，可通过CS I/O存储数据采集器所采集到的观测数据，USB接口可以直接连接计算机。既可以作为存储介质在数据采集器和电脑之间转移数据，也可以实现数据采集器与电脑的直连。</p>
+<p>CR850与CR800性能一致，但集成了液晶显示屏和操作键盘，可用于现场设置和状态检查。</p>
+<h2 id="特点"><a href="#特点" class="headerlink" title="特点"></a>特点</h2><p>100Hz高速扫描</p>
+<p>4M数据和程序存储空间</p>
+<p>表格式数据格式</p>
+<p>支持LoggerNet软件</p>
+<p>支持PakBus、Modbus和DNP3协议、SDI-12协议和SDM设备</p>
+<p>采用气体放电管（Gas Discharge Tube，GDT）保护数据输入</p>
+<p>可外接多种扩展配件</p>
+<h2 id="主要技术参数"><a href="#主要技术参数" class="headerlink" title="主要技术参数"></a>主要技术参数</h2><p>扫描频率：100 Hz</p>
+<p>通讯端口：1个CS I/O ，1个RS-232</p>
+<p>A/D转换：13bit</p>
+<p>耗电量：约0.6mA（睡眠模式），1<del>16mA（w/o RS-232通讯时），17</del>28 mA (w/RS-232 通讯时)</p>
+<p>模拟量输入：6个单端通道（即3个差分通道）</p>
+<p>模拟电压范围：±5000mV</p>
+<p>模拟电压精度：±（读数*0.06%+偏移量），0℃~40℃</p>
+<p>测量分辨率：0.33 µV</p>
+<p>脉冲通道：2个</p>
+<p>控制口：4个</p>
+<p>协议支持：PakBus，Modbus，DNP3，FTP，HTTP，XML，POP3，SMTP，Telnet，NTCIP，NTP，SDI-12，SDM</p>
+]]></content>
+      <tags>
+        <tag>数据采集器</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Apogee SI-411精密红外温度传感器</title>
+    <url>/2021/10/01/SI-411-%E7%BA%A2%E5%A4%96%E6%B8%A9%E5%BA%A6/</url>
+    <content><![CDATA[<h1 id="Apogee-SI-411精密红外温度传感器"><a href="#Apogee-SI-411精密红外温度传感器" class="headerlink" title="Apogee SI-411精密红外温度传感器"></a>Apogee SI-411精密红外温度传感器</h1><p><img src="https://zt-1307572978.cos.ap-beijing.myqcloud.com/SI411.png" alt="SI-411"></p>
+<p> SI-411具有SDI-12数字输出。该传感器具有22°半角的视场和0.1秒的响应时间。典型应用包括用于植物水状态估计的植物冠层温度测量，测定结冰条件的路面温度测量，以及能量平衡研究中的陆地表面（土壤，植被，水，雪）温度测量。</p>
+<h2 id="主要参数"><a href="#主要参数" class="headerlink" title="主要参数"></a>主要参数</h2><p>输入电压                              4.5至24 V DC<br>电流消耗                              0.6 mA（静态），1.3 mA（工作）<br>校准不确定度（-20至65°C）     0.2°C，当目标和检测器温度在20°C内<br>校准不确定度（-40至80°C）     0.5℃，当目标和检测器温度相差大于20℃时<br>测量重复性                               小于0.05℃<br>稳定性（长期漂移）                  锗过滤器保持清洁条件下每年的斜率变化小于2％<br>响应时间                                   0.6 s，检测器信号在步进变化后达到95％的时间;SDI-12电路的最快数据传输速率为1 s<br>视野                                         22°半角<br>光谱范围                                  8至14μm的大气窗<br>操作环境                                  -55至80℃，0至100％相对湿度（非冷凝<br>尺寸                                         23mm直径，60mm长度<br>质量                                         190 g（带5 m导线）<br>电缆                                         5 m的四芯导线，屏蔽双绞线。附加电缆可提供5 m的倍数。山都平橡胶<br>                                                护套（高耐水性，高UV稳定性，在寒冷条件下的柔韧性</p>
+]]></content>
+      <tags>
+        <tag>温湿度</tag>
+      </tags>
+  </entry>
 </search>
