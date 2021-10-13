@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>CR1000X数据采集器</title>
+    <url>/2021/09/23/CR1000X%E6%95%B0%E6%8D%AE%E9%87%87%E9%9B%86%E5%99%A8/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/lightgallery.js/1.0.1/css/lightgallery.min.css" /><div class=".article-gallery"<h1 id="CR1000X数据采集器"><a href="#CR1000X数据采集器" class="headerlink" title="CR1000X数据采集器"></a>CR1000X数据采集器</h1><p><a href="https://zt-1307572978.cos.ap-beijing.myqcloud.com/CR1000X.png" title="CR1000X数采" class="gallery-item"><img src="https://zt-1307572978.cos.ap-beijing.myqcloud.com/CR1000X.png" alt="CR1000X数采"></a></p>
+<p>CR1000X 是我们的一款旗舰型产品，在测量和控制方面能满足广泛的需求。CR1000X的可靠性和坚固程度保证了它可以应用于：气象站、中尺度气象网、风廓线、空气质量监测、水文系统、水质监测、水文气象站等领域。</p>
+<p>CR1000X同时具备低功耗的优势，体现在传感器测量、直接/远程通讯连接、数据分析、外部设备控制、数据和程序存储等方面。CR1000X采用密封装置屏蔽射频干扰，具备精密时钟、类似BASIC编程语言、数据处理和分析等功能</p>
+<h2 id="特点"><a href="#特点" class="headerlink" title="特点"></a>特点</h2><p>高环境适应性，温度工作范围最大可达-55℃~85℃（限CR1000X-XT）<br>支持太阳能板、直流、12V电池或USB等多种供电方式<br>具备300+MHz的快速模拟测量功能<br>标配10/100M Ethernet网口，可选配WiFi功能<br>标配USB接口可直连电脑<br>支持MicroSD卡扩展（最大8GB）<br>支持网络服务器功能，可实现数据显示、在线配置和诊断<br>支持 CPI 通讯，支持 Campbell 高速传感器和分布模块（CDM</p>
+<h2 id="主要技术参数"><a href="#主要技术参数" class="headerlink" title="主要技术参数"></a>主要技术参数</h2><p>CPU: 32bit，FPU，100Hz，1MB运存<br>内存: 128MB，可通过MicroSD卡扩展8GB<br>时钟精度: ±3分钟/年；10μm（选配GPS）<br>测量分辨率: 0.02μV RMS<br>模拟精度: ±（0.04%读数+漂移）<br>供电 :16-32VDC（1.2A）太阳能板充电；12VDC电池；内部电池；USB<br>工作温度: -40至70℃（标准），-55℃至85℃（扩展）<br>模拟输入: 16个单端通道（8个差分）<br>控制端子: 数字I/O，RS232/RS485，半/全双工<br>数据接口: CS I/O<em>1个；CPI/CDM</em>1个；RJ-45 Ethernet 10/100M<em>1个；USB-micro B</em>1个<br>互联网协议：以太网，PPP，CS I / O IP，RNDIS，ICMP / Ping，自动IP（APIPA），IPv4，IPv6，UDP，TCP，TLS，DNS，DHCP，SLAAC，SNMPv3，NTP，Telnet，HTTP（S）， FTP（S），SMTP / TLS，POP3 / TLS<br>通讯协议: CPI，PakBus，SDM，SDI-12，Modbus，TCP，DNP3，UDP，NTCIP，NMEA 0183，I2C，SPI等<br>外形尺寸: 23.8cm×10.1cm×6.2cm<br>重量 :约0.86kg</p>
+</div><script src="https://cdn.jsdelivr.net/lightgallery.js/1.0.1/js/lightgallery.min.js"></script><script>if (typeof lightGallery !== 'undefined') {
+        var options = {
+            selector: '.gallery-item'
+        };
+        lightGallery(document.getElementsByClassName('.article-gallery')[0], options);
+        }</script>]]></content>
+      <tags>
+        <tag>数据采集器</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>CR1000数据采集器</title>
     <url>/2021/09/24/CR1000%E6%95%B0%E6%8D%AE%E9%87%87%E9%9B%86%E5%99%A8/</url>
     <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/lightgallery.js/1.0.1/css/lightgallery.min.css" /><div class=".article-gallery"<h1 id="CR1000数据采集器"><a href="#CR1000数据采集器" class="headerlink" title="CR1000数据采集器"></a>CR1000数据采集器</h1><p><a href="https://zt-1307572978.cos.ap-beijing.myqcloud.com/CR1000.png" title="CR1000数采" class="gallery-item"><img src="https://zt-1307572978.cos.ap-beijing.myqcloud.com/CR1000.png" alt="CR1000数采"></a></p>
@@ -25,24 +43,6 @@
 <p>供电电压：9.6~16VDC</p>
 <p>A/D转换：13bit</p>
 <p>微型控制器：16-bit H8S Hitachi，32-bit内部CPU</p>
-</div><script src="https://cdn.jsdelivr.net/lightgallery.js/1.0.1/js/lightgallery.min.js"></script><script>if (typeof lightGallery !== 'undefined') {
-        var options = {
-            selector: '.gallery-item'
-        };
-        lightGallery(document.getElementsByClassName('.article-gallery')[0], options);
-        }</script>]]></content>
-      <tags>
-        <tag>数据采集器</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>CR1000X数据采集器</title>
-    <url>/2021/09/23/CR1000X%E6%95%B0%E6%8D%AE%E9%87%87%E9%9B%86%E5%99%A8/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/lightgallery.js/1.0.1/css/lightgallery.min.css" /><div class=".article-gallery"<h1 id="CR1000X数据采集器"><a href="#CR1000X数据采集器" class="headerlink" title="CR1000X数据采集器"></a>CR1000X数据采集器</h1><p><a href="https://zt-1307572978.cos.ap-beijing.myqcloud.com/CR1000X.png" title="CR1000X数采" class="gallery-item"><img src="https://zt-1307572978.cos.ap-beijing.myqcloud.com/CR1000X.png" alt="CR1000X数采"></a></p>
-<p>CR1000X 是我们的一款旗舰型产品，在测量和控制方面能满足广泛的需求。CR1000X的可靠性和坚固程度保证了它可以应用于：气象站、中尺度气象网、风廓线、空气质量监测、水文系统、水质监测、水文气象站等领域。</p>
-<p>CR1000X同时具备低功耗的优势，体现在传感器测量、直接/远程通讯连接、数据分析、外部设备控制、数据和程序存储等方面。CR1000X采用密封装置屏蔽射频干扰，具备精密时钟、类似BASIC编程语言、数据处理和分析等功能</p>
-<h2 id="特点"><a href="#特点" class="headerlink" title="特点"></a>特点</h2><p>高环境适应性，温度工作范围最大可达-55℃~85℃（限CR1000X-XT）<br>支持太阳能板、直流、12V电池或USB等多种供电方式<br>具备300+MHz的快速模拟测量功能<br>标配10/100M Ethernet网口，可选配WiFi功能<br>标配USB接口可直连电脑<br>支持MicroSD卡扩展（最大8GB）<br>支持网络服务器功能，可实现数据显示、在线配置和诊断<br>支持 CPI 通讯，支持 Campbell 高速传感器和分布模块（CDM</p>
-<h2 id="主要技术参数"><a href="#主要技术参数" class="headerlink" title="主要技术参数"></a>主要技术参数</h2><p>CPU: 32bit，FPU，100Hz，1MB运存<br>内存: 128MB，可通过MicroSD卡扩展8GB<br>时钟精度: ±3分钟/年；10μm（选配GPS）<br>测量分辨率: 0.02μV RMS<br>模拟精度: ±（0.04%读数+漂移）<br>供电 :16-32VDC（1.2A）太阳能板充电；12VDC电池；内部电池；USB<br>工作温度: -40至70℃（标准），-55℃至85℃（扩展）<br>模拟输入: 16个单端通道（8个差分）<br>控制端子: 数字I/O，RS232/RS485，半/全双工<br>数据接口: CS I/O<em>1个；CPI/CDM</em>1个；RJ-45 Ethernet 10/100M<em>1个；USB-micro B</em>1个<br>互联网协议：以太网，PPP，CS I / O IP，RNDIS，ICMP / Ping，自动IP（APIPA），IPv4，IPv6，UDP，TCP，TLS，DNS，DHCP，SLAAC，SNMPv3，NTP，Telnet，HTTP（S）， FTP（S），SMTP / TLS，POP3 / TLS<br>通讯协议: CPI，PakBus，SDM，SDI-12，Modbus，TCP，DNP3，UDP，NTCIP，NMEA 0183，I2C，SPI等<br>外形尺寸: 23.8cm×10.1cm×6.2cm<br>重量 :约0.86kg</p>
 </div><script src="https://cdn.jsdelivr.net/lightgallery.js/1.0.1/js/lightgallery.min.js"></script><script>if (typeof lightGallery !== 'undefined') {
         var options = {
             selector: '.gallery-item'
@@ -150,22 +150,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Apogee SI-411精密红外温度传感器</title>
-    <url>/2021/10/02/SI-411-%E7%BA%A2%E5%A4%96%E6%B8%A9%E5%BA%A6/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/lightgallery.js/1.0.1/css/lightgallery.min.css" /><div class=".article-gallery"<h1 id="Apogee-SI-411精密红外温度传感器"><a href="#Apogee-SI-411精密红外温度传感器" class="headerlink" title="Apogee SI-411精密红外温度传感器"></a>Apogee SI-411精密红外温度传感器</h1><p><a href="https://zt-1307572978.cos.ap-beijing.myqcloud.com/SI411.png" title="SI-411" class="gallery-item"><img src="https://zt-1307572978.cos.ap-beijing.myqcloud.com/SI411.png" alt="SI-411"></a></p>
-<p> SI-411具有SDI-12数字输出。该传感器具有22°半角的视场和0.1秒的响应时间。典型应用包括用于植物水状态估计的植物冠层温度测量，测定结冰条件的路面温度测量，以及能量平衡研究中的陆地表面（土壤，植被，水，雪）温度测量。</p>
-<h2 id="主要参数"><a href="#主要参数" class="headerlink" title="主要参数"></a>主要参数</h2><p>输入电压                              4.5至24 V DC<br>电流消耗                              0.6 mA（静态），1.3 mA（工作）<br>校准不确定度（-20至65°C）     0.2°C，当目标和检测器温度在20°C内<br>校准不确定度（-40至80°C）     0.5℃，当目标和检测器温度相差大于20℃时<br>测量重复性                               小于0.05℃<br>稳定性（长期漂移）                  锗过滤器保持清洁条件下每年的斜率变化小于2％<br>响应时间                                   0.6 s，检测器信号在步进变化后达到95％的时间;SDI-12电路的最快数据传输速率为1 s<br>视野                                         22°半角<br>光谱范围                                  8至14μm的大气窗<br>操作环境                                  -55至80℃，0至100％相对湿度（非冷凝<br>尺寸                                         23mm直径，60mm长度<br>质量                                         190 g（带5 m导线）<br>电缆                                         5 m的四芯导线，屏蔽双绞线。附加电缆可提供5m的倍数。山都平橡胶护套（高耐水性，高UV稳定性，在寒冷条件下的柔韧性</p>
-</div><script src="https://cdn.jsdelivr.net/lightgallery.js/1.0.1/js/lightgallery.min.js"></script><script>if (typeof lightGallery !== 'undefined') {
-        var options = {
-            selector: '.gallery-item'
-        };
-        lightGallery(document.getElementsByClassName('.article-gallery')[0], options);
-        }</script>]]></content>
-      <tags>
-        <tag>温湿度</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Vaisala HMP155A温度相对湿度传感器</title>
     <url>/2021/10/01/HMP155A-%E6%B8%A9%E6%B9%BF%E5%BA%A6/</url>
     <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/lightgallery.js/1.0.1/css/lightgallery.min.css" /><div class=".article-gallery"<h1 id="Vaisala-HMP155A温度相对湿度传感器"><a href="#Vaisala-HMP155A温度相对湿度传感器" class="headerlink" title="Vaisala HMP155A温度相对湿度传感器"></a>Vaisala HMP155A温度相对湿度传感器</h1><p><a href="https://zt-1307572978.cos.ap-beijing.myqcloud.com/HMP155A.png" title="HMP155A" class="gallery-item"><img src="https://zt-1307572978.cos.ap-beijing.myqcloud.com/HMP155A.png" alt="HMP155A"></a></p>
@@ -182,6 +166,22 @@
 <h2 id="湿度"><a href="#湿度" class="headerlink" title="湿度"></a>湿度</h2><p>传感器类型：HUMICAP®180R</p>
 <p>量程：0.8~100% RH</p>
 <p>精度：±（1.2%+0.012×读数）%RH（-40~ -20℃，40℃<del>60℃），±（1.0+0.008×读数）%RH（-20℃</del>40℃）</p>
+</div><script src="https://cdn.jsdelivr.net/lightgallery.js/1.0.1/js/lightgallery.min.js"></script><script>if (typeof lightGallery !== 'undefined') {
+        var options = {
+            selector: '.gallery-item'
+        };
+        lightGallery(document.getElementsByClassName('.article-gallery')[0], options);
+        }</script>]]></content>
+      <tags>
+        <tag>温湿度</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Apogee SI-411精密红外温度传感器</title>
+    <url>/2021/10/02/SI-411-%E7%BA%A2%E5%A4%96%E6%B8%A9%E5%BA%A6/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/lightgallery.js/1.0.1/css/lightgallery.min.css" /><div class=".article-gallery"<h1 id="Apogee-SI-411精密红外温度传感器"><a href="#Apogee-SI-411精密红外温度传感器" class="headerlink" title="Apogee SI-411精密红外温度传感器"></a>Apogee SI-411精密红外温度传感器</h1><p><a href="https://zt-1307572978.cos.ap-beijing.myqcloud.com/SI411.png" title="SI-411" class="gallery-item"><img src="https://zt-1307572978.cos.ap-beijing.myqcloud.com/SI411.png" alt="SI-411"></a></p>
+<p> SI-411具有SDI-12数字输出。该传感器具有22°半角的视场和0.1秒的响应时间。典型应用包括用于植物水状态估计的植物冠层温度测量，测定结冰条件的路面温度测量，以及能量平衡研究中的陆地表面（土壤，植被，水，雪）温度测量。</p>
+<h2 id="主要参数"><a href="#主要参数" class="headerlink" title="主要参数"></a>主要参数</h2><p>输入电压                              4.5至24 V DC<br>电流消耗                              0.6 mA（静态），1.3 mA（工作）<br>校准不确定度（-20至65°C）     0.2°C，当目标和检测器温度在20°C内<br>校准不确定度（-40至80°C）     0.5℃，当目标和检测器温度相差大于20℃时<br>测量重复性                               小于0.05℃<br>稳定性（长期漂移）                  锗过滤器保持清洁条件下每年的斜率变化小于2％<br>响应时间                                   0.6 s，检测器信号在步进变化后达到95％的时间;SDI-12电路的最快数据传输速率为1 s<br>视野                                         22°半角<br>光谱范围                                  8至14μm的大气窗<br>操作环境                                  -55至80℃，0至100％相对湿度（非冷凝<br>尺寸                                         23mm直径，60mm长度<br>质量                                         190 g（带5 m导线）<br>电缆                                         5 m的四芯导线，屏蔽双绞线。附加电缆可提供5m的倍数。山都平橡胶护套（高耐水性，高UV稳定性，在寒冷条件下的柔韧性</p>
 </div><script src="https://cdn.jsdelivr.net/lightgallery.js/1.0.1/js/lightgallery.min.js"></script><script>if (typeof lightGallery !== 'undefined') {
         var options = {
             selector: '.gallery-item'
